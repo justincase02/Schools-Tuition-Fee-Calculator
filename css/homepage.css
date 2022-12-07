@@ -1,0 +1,23 @@
+.school-img{
+  height:auto;
+  width:100%;
+  padding:20px;
+}
+
+.school-img-div{
+  margin-top: 50px;
+  padding:auto;
+  background-color: #EEE;
+  vertical-align: middle;
+}
+
+.signin-btn-div{
+  height: 100%;
+  margin-right: auto;
+  margin-left:auto;
+  vertical-align: middle;
+}
+
+.signin-btn{
+  width:50%;
+}
